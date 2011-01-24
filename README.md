@@ -2,7 +2,8 @@
 
 A desktop wallpaper
 
-Preview
+## Preview
+
 <a href="https://github.com/in5ikt/ps-sitting-behind-my-desk/tree/master/static/">
   <img src="https://github.com/in5ikt/ps-sitting-behind-my-desk/raw/master/static/sitting-at-my-desk-600.png" />
 </a>
